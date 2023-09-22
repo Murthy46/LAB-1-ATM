@@ -19,7 +19,7 @@ to withdraw money,deposit.
 
 <img width="1440" alt="Screenshot 2023-09-22 at 2 24 18 PM" src="https://github.com/Murthy46/LAB-1-ATM/assets/145112768/5873c406-77d2-48ef-a3be-7d869188a5a3">
 
-<img width="1440" alt="Screenshot 2023-09-22 at 2 24 25 PM" src="https://github.com/Murthy46/LAB-1-ATM/assets/145112768/2bd08300-e0a7-46aa-a325-38a598e9c7a7">
+<img width="1440" alt="Screenshot 2023-09-22 at 2 24 25 PM" src="https://github.com/Murthy46/LAB-1-ATM/ssets/145112768/2bd08300-e0a7-46aa-a325-38a598e9c7a7">
 
 <img width="1440" alt="Screenshot 2023-09-22 at 2 24 45 PM" src="https://github.com/Murthy46/LAB-1-ATM/assets/145112768/ee9fad2d-5deb-4235-aea0-0a0cfbea0091">
 
